@@ -1,8 +1,8 @@
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/namath/bin,system/bin)
+#PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/namath/bin,system/bin)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/namath/etc,system/etc)
+#PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/namath/etc,system/etc)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/namath/lib,system/lib)
+#PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/namath/lib,system/lib)
 
 #PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/namath/priv-app,system/priv-app)
 
